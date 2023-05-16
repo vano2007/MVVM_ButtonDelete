@@ -48,7 +48,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:maxImageSize="59dp"
-        app:srcCompat="@drawable/"
+        app:srcCompat="@drawable/delete"
         app:tint="@null" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -12,6 +12,12 @@
         android:theme="@style/Theme.MVVM_ButtonDelete"
         tools:targetApi="31">
         <activity
+            android:name=".view.AddNotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.UpdateActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.MainActivity2"
             android:exported="false" />
         <activity
