@@ -66,7 +66,7 @@ public class MainActivity2 extends AppCompatActivity {
             public void onClick(View view) {
                 // удаления записей
                 database.deleteAllNotes();
-                Toast.makeText(MainActivity2.this, "Данные из блокнота удалены", Toast.LENGTH_SHORT).show()
+                Toast.makeText(MainActivity2.this, "Данные из блокнота удалены", Toast.LENGTH_SHORT).show();
             }
         });
     }
